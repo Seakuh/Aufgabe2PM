@@ -14,4 +14,11 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ctr/Readme.me.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-3-ECLIPSE_HOME/WorkSpaces/Eclipse/Informatik1/Readme.me.txt</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
