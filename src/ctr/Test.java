@@ -8,7 +8,7 @@ import java.io.Reader;
 import java.io.StringReader;
 
 public class Test {
-
+	//Main
 	public static void main(String[] args) throws FileNotFoundException {
 		String filename = "C:\\Users\\Dizzle\\WorkSpaces\\Eclipse\\Informatik1\\Readme.me";
 		File file = new File(filename);
